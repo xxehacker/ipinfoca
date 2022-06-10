@@ -2,11 +2,13 @@
 <p>Ipinfo is a simply python script, which can be used to Ip lookup and to get information of perticualr target Ip.</p>
 <hr>
 <h1> Installation </h1>
-<p>apt-get install python3 </p>
-<p>git clone https://github.com/SecureAxom/ipinfo.py </p>
-<p>cd ipinfo </p>
-<p>pip3 install -r requirements.txt </p>
-<p>python3 ipinfo.py </p>
+<ul>
+<li>apt-get install python3 </li>
+<li>git clone https://github.com/SecureAxom/ipinfo.py </li>
+<li>cd ipinfo </li>
+<li>pip3 install -r requirements.txt </li>
+<li>python3 ipinfo.py </li>
+</ul>
 <hr>
 <h1> Usages </h1>
 <br>
