@@ -36,10 +36,11 @@ python3 ipinfoca.py -t 8.8.8.8
   <li>Ubuntu</li>
   <li>Termux</li>
 </ul>
+<hr>
 <h1> Screenshot </h1>
 
  <img src="https://github.com/secureaxom/ipinfo/blob/main/ipin.png" href="https://github.com/secureaxom" alt="Ipinfo" width="100%" >
-
+<hr>
 <h1> License </h1>
 <p>This project is licensed under the MIT License </p>
 
