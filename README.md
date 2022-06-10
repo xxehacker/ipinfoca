@@ -38,7 +38,7 @@ python3 ipinfo.py -t 8.8.8.8
 
 <p float="left">
   <img src="https://github.com/secureaxom/ipinfo/blob/main/ipinfo3.png" href="https://github.com/secureaxom" alt="Ipinfo" width="50%" height="50%" /></p>
-  <p float="right"
+  <p float="right">
   <img src="https://github.com/secureaxom/ipinfo/blob/main/ipinfo3.png" href="https://github.com/secureaxom" alt="Ipinfo" width="50%" height="50%" />  </p>
 
  
