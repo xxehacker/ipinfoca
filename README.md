@@ -21,11 +21,12 @@ python3 ipinfo.py -t 8.8.8.8
 <br>
 <hr>
 <h1> Tested On </h1>
-Kali Linux
-Parrot OS
-Ubuntu
-Termux
-
+<ul> 
+  <li>Kali Linux</li>
+  <li>Parrot OS </li>
+  <li>Ubuntu</li>
+  <li>Termux</li>
+</ul>
 <h1> Screen Shoot </h1>
 
 
