@@ -19,7 +19,7 @@
 <br>
 
 ```
-python3 ipinfoca.py -h 
+<p style="color: green"> python3 ipinfoca.py -h </p>
 
 ```
 
