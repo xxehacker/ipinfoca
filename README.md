@@ -34,7 +34,7 @@ python3 ipinfoca.py -t 8.8.8.8
   <li>Ubuntu</li>
   <li>Termux</li>
 </ul>
-<h1> Screen Shoot </h1>
+<h1> Screenshot </h1>
 
  <img src="https://github.com/secureaxom/ipinfo/blob/main/ipin.png" href="https://github.com/secureaxom" alt="Ipinfo" width="100%" >
 
