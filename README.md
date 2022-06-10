@@ -38,5 +38,6 @@ python3 ipinfoca.py -t 8.8.8.8
 
  <img src="https://github.com/secureaxom/ipinfo/blob/main/ipin.png" href="https://github.com/secureaxom" alt="Ipinfo" width="100%" >
 
-
+<h1> License </h1>
+<p>This project is licensed under the MIT License </p>
 
