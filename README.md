@@ -36,10 +36,10 @@ python3 ipinfo.py -t 8.8.8.8
 </ul>
 <h1> Screen Shoot </h1>
 
-<p float="left">
-  <img src="https://github.com/secureaxom/ipinfo/blob/main/ipinfo3.png" href="https://github.com/secureaxom" alt="Ipinfo" width="50%" height="50%" /></p>
-  <p float="right">
-  <img src="https://github.com/secureaxom/ipinfo/blob/main/ipinfo3.png" href="https://github.com/secureaxom" alt="Ipinfo" width="50%" height="50%" />  </p>
+<p>
+  <img align="left" src="https://github.com/secureaxom/ipinfo/blob/main/ipinfo3.png" href="https://github.com/secureaxom" alt="Ipinfo" hspace="20" /></p>
+   
+  <img align="left" src="https://github.com/secureaxom/ipinfo/blob/main/ipinfo3.png" href="https://github.com/secureaxom" alt="Ipinfo" hspace="20" /> 
 
  
 
