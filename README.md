@@ -2,7 +2,7 @@
  <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
 <img src="https://github.com/SecureAxom/ipinfo/blob/main/ipin.png" href="https://github.com/secureaxom" alt="Ipinfo"  width="100%" height="100%"/><br> 
  </div>
-
+<hr>
 <h1> ipinfo </h1>
 <p>Ipinfo is a simply python script, which can be used to Ip lookup and to get information of perticualr target Ip.</p>
 <hr>
@@ -35,5 +35,7 @@ python3 ipinfo.py -t 8.8.8.8
   <li>Termux</li>
 </ul>
 <h1> Screen Shoot </h1>
-
+ <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
+<img src="https://github.com/ipinfo/blob/main/ipinfo3.png" href="https://github.com/secureaxom" alt="Ipinfo"  width="100%" height="100%"/><br> 
+ </div>
 
