@@ -4,26 +4,26 @@
  </div>
 <hr>
 <h1> ipinfo </h1>
-<p>Ipinfo is a simply python script, which can be used to Ip lookup and to get information of perticualr target Ip.</p>
+<p>Ipinfoca is a simply python script, which can be used to Ip lookup and to get information of perticualr target Ip.</p>
 <hr>
 <h1> Installation </h1>
 <ul>
 <li>apt-get install python3 </li>
-<li>git clone https://github.com/SecureAxom/ipinfo.py </li>
-<li>cd ipinfo </li>
+<li>git clone https://github.com/SecureAxom/ipinfoca.py </li>
+<li>cd ipinfoca </li>
 <li>pip3 install -r requirements.txt </li>
-<li>python3 ipinfo.py </li>
+<li>python3 ipinfoca.py </li>
 </ul>
 <hr>
 <h1> Usages </h1>
 <br>
 
 ```
-python3 ipinfo.py -h 
+python3 ipinfoca.py -h 
 ```
 
 ```
-python3 ipinfo.py -t 8.8.8.8 
+python3 ipinfoca.py -t 8.8.8.8 
 ```
 <br>
 <hr>
