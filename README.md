@@ -19,16 +19,21 @@
 <br>
 
 ```
-python3 ipinfoca.py -h </p>
+python3 ipinfoca.py -h
+usage: ./ipinformation.py -h/-t  Ip/Domain
+
+A tool that collects information about IP address
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -t IP       Target/Host Ip Address
+
+Example: ./ipinformation.py -t 8.8.8.8
 
 ```
 
-```
-python3 ipinfoca.py -t  157.240.1.35
-
-```
 ```console
-
+python3 ipinfoca.py -t 157.240.1.35
  ____  ____  ____  _  _  ____  _____  ___    __
 (_  _)(  _ \(_  _)( \( )( ___)(  _  )/ __)  /__\
  _)(_  )___/ _)(_  )  (  )__)  )(_)(( (_-. /(__)\
