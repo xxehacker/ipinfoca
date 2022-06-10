@@ -10,6 +10,7 @@
 <hr>
 <h1> Usages </h1>
 <br>
+
 ```
 python3 ipinfo.py -h 
 ```
@@ -20,10 +21,10 @@ python3 ipinfo.py -t 8.8.8.8
 <br>
 <hr>
 <h1> Tested On </h1>
-<p>Kali Linux </p>
-<p>Parrot OS </p>
-<p>Ubuntu </p>
-<p>Termux </p>
+Kali Linux
+Parrot OS
+Ubuntu
+Termux
 
 <h1> Screen Shoot </h1>
 
