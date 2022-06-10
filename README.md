@@ -3,7 +3,7 @@
 <img src="https://github.com/SecureAxom/ipinfo/blob/main/ipinfo.png" href="https://github.com/secureaxom" alt="Ipinfo"  width="100%" height="100%"/><br> 
  </div>
 <hr>
-<h1> ipinfo </h1>
+<h1> ipinfoca </h1>
 <p>Ipinfoca is a simply python script, which can be used to Ip lookup and to get information of perticualr target Ip.</p>
 <hr>
 <h1> Installation </h1>
