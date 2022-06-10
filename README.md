@@ -36,8 +36,9 @@ python3 ipinfo.py -t 8.8.8.8
 </ul>
 <h1> Screen Shoot </h1>
  <div style="width:100%;height:0;padding-bottom:45%;position:relative;">
-<img src="https://github.com/secureaxom/ipinfo/blob/main/ipinfo3.png" href="https://github.com/secureaxom" alt="Ipinfo"  width="50%" height="50%"/><br> 
+<img src="https://github.com/secureaxom/ipinfo/blob/main/ipinfo3.png" href="https://github.com/secureaxom" alt="Ipinfo"  width="50%" height="50%"/>
+ <img src="https://github.com/SecureAxom/ipinfo/blob/main/ipin.png" href="https://github.com/secureaxom" alt="Ipinfo"  width="50%" height="50%"/><br> 
  </div>
-<img src="https://github.com/SecureAxom/ipinfo/blob/main/ipin.png" href="https://github.com/secureaxom" alt="Ipinfo"  width="50%" height="50%"/>
+
  
 
