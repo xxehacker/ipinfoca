@@ -24,7 +24,27 @@ python3 ipinfoca.py -h </p>
 ```
 
 ```
-python3 ipinfoca.py -t 8.8.8.8 
+python3 ipinfoca.py -t  157.240.1.35
+
+```
+```console
+
+ ____  ____  ____  _  _  ____  _____  ___    __
+(_  _)(  _ \(_  _)( \( )( ___)(  _  )/ __)  /__\
+ _)(_  )___/ _)(_  )  (  )__)  )(_)(( (_-. /(__)\
+(____)(__)  (____)(_)\_)(__)  (_____)\___/(__)(__)
+
+             Coded By Mridupawan
+
+Country :  India
+RegionName :  West Bengal
+zip :  700059
+timezone :  Asia/Kolkata
+isp :  Facebook, Inc.
+countryCode :  IN
+lat :  22.518
+org :  Facebook, Inc.
+asn :  AS32934 Facebook, Inc.
 
 ```
 
